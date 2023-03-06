@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PDNCOAH_API.props" />
+</Project>

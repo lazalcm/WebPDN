@@ -18,12 +18,8 @@
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.server\3.0.0\build\Microsoft.Extensions.ApiDescription.Server.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.server\3.0.0\build\Microsoft.Extensions.ApiDescription.Server.props')" />
     <Import Project="$(NuGetPackageRoot)swashbuckle.aspnetcore\6.2.1\build\Swashbuckle.AspNetCore.props" Condition="Exists('$(NuGetPackageRoot)swashbuckle.aspnetcore\6.2.1\build\Swashbuckle.AspNetCore.props')" />
-    <Import Project="$(NuGetPackageRoot)microsoft.codeanalysis.bannedapianalyzers\3.3.2\build\Microsoft.CodeAnalysis.BannedApiAnalyzers.props" Condition="Exists('$(NuGetPackageRoot)microsoft.codeanalysis.bannedapianalyzers\3.3.2\build\Microsoft.CodeAnalysis.BannedApiAnalyzers.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">C:\Users\ingla\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0</PkgMicrosoft_Extensions_ApiDescription_Server>
-    <PkgMicrosoft_VisualStudio_Threading_Analyzers Condition=" '$(PkgMicrosoft_VisualStudio_Threading_Analyzers)' == '' ">C:\Users\ingla\.nuget\packages\microsoft.visualstudio.threading.analyzers\17.0.64</PkgMicrosoft_VisualStudio_Threading_Analyzers>
-    <PkgMicrosoft_CodeAnalysis_BannedApiAnalyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_BannedApiAnalyzers)' == '' ">C:\Users\ingla\.nuget\packages\microsoft.codeanalysis.bannedapianalyzers\3.3.2</PkgMicrosoft_CodeAnalysis_BannedApiAnalyzers>
-    <PkgMicrosoft_VisualStudio_SDK_Analyzers Condition=" '$(PkgMicrosoft_VisualStudio_SDK_Analyzers)' == '' ">C:\Users\ingla\.nuget\packages\microsoft.visualstudio.sdk.analyzers\16.10.10</PkgMicrosoft_VisualStudio_SDK_Analyzers>
   </PropertyGroup>
 </Project>
