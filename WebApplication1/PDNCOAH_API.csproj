@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>952a75ae-17a6-482d-8ed0-f49abc834db7</UserSecretsId>
     <AssemblyName>PDNCOAH_API</AssemblyName>
     <RootNamespace>PDNCOAH_API</RootNamespace>

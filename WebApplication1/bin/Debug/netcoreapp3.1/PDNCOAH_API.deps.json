@@ -33,7 +33,6 @@
         "dependencies": {
           "DevExpress.Data": "21.1.5",
           "DocumentFormat.OpenXml": "2.13.1",
-          "Google.Apis.Core": "1.55.0",
           "Microsoft.AspNetCore.Cors": "2.2.0",
           "Moment.Timezone.js": "0.5.13",
           "MySql.Data": "8.0.26",
@@ -378,20 +377,6 @@
           "lib/netstandard2.0/DocumentFormat.OpenXml.dll": {}
         }
       },
-      "Google.Apis.Core/1.55.0": {
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.1"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Google.Apis.Core.dll": {
-            "assemblyVersion": "1.55.0.0",
-            "fileVersion": "1.55.0.0"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/Google.Apis.Core.dll": {}
-        }
-      },
       "Google.Protobuf/3.14.0": {
         "dependencies": {
           "System.Memory": "4.5.3",
@@ -575,17 +560,6 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0"
-        }
-      },
-      "Newtonsoft.Json/13.0.1": {
-        "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
-            "assemblyVersion": "13.0.0.0",
-            "fileVersion": "13.0.1.25517"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
       "NodaTime/3.0.5": {
@@ -2622,13 +2596,6 @@
       "path": "documentformat.openxml/2.13.1",
       "hashPath": "documentformat.openxml.2.13.1.nupkg.sha512"
     },
-    "Google.Apis.Core/1.55.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-QX6pmjRxZYgyGFqsa7tyxdjoEb6ssJ9lv6ub8AxhPd/BCMEglmqzW4GpsuKQZaRg9Qq9gp9HRzjCiLZ3RgmNgw==",
-      "path": "google.apis.core/1.55.0",
-      "hashPath": "google.apis.core.1.55.0.nupkg.sha512"
-    },
     "Google.Protobuf/3.14.0": {
       "type": "package",
       "serviceable": true,
@@ -2803,13 +2770,6 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
-    },
-    "Newtonsoft.Json/13.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
-      "path": "newtonsoft.json/13.0.1",
-      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
     },
     "NodaTime/3.0.5": {
       "type": "package",
