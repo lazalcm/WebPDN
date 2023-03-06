@@ -1,0 +1,303 @@
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.exe
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.deps.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.runtimeconfig.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.runtimeconfig.dev.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.pdb
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.OAuth.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\NodaTime.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Owin.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfoInputs.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfo.cs
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.CoreCompileInputs.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\PDNCOAH_API.StaticWebAssets.Manifest.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\PDNCOAH_API.StaticWebAssets.xml
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\PDNCOAH_API.styles.css
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.RazorTargetAssemblyInfo.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.CopyComplete
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.pdb
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.genruntimeconfig.cache
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.exe
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.deps.json
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.runtimeconfig.json
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.runtimeconfig.dev.json
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.pdb
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\NodaTime.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfoInputs.cache
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfo.cs
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.CoreCompileInputs.cache
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\PDNCOAH_API.StaticWebAssets.Manifest.cache
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\PDNCOAH_API.StaticWebAssets.xml
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\PDNCOAH_API.styles.css
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.RazorTargetAssemblyInfo.cache
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.CopyComplete
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.pdb
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.genruntimeconfig.cache
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.xml
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.xml
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\DevExpress.Data.v21.1.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\clazalde\Documents\PDN_API\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.AssemblyReference.cache
+C:\Users\hicer\Desktop\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.AssemblyReference.cache
+C:\Users\hicer\Desktop\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hicer\Desktop\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfoInputs.cache
+C:\Users\hicer\Desktop\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfo.cs
+C:\Users\hicer\Desktop\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.CoreCompileInputs.cache
+C:\Users\hicer\Desktop\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hicer\Desktop\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hicer\Desktop\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.dll
+C:\Users\hicer\Desktop\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.xml
+C:\Users\hicer\Desktop\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.pdb
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.AssemblyReference.cache
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfoInputs.cache
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfo.cs
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.CoreCompileInputs.cache
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.xml
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.pdb
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.exe
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.deps.json
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.runtimeconfig.json
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.runtimeconfig.dev.json
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.pdb
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.xml
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\DevExpress.Data.v21.1.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\NodaTime.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\PDNCOAH_API.StaticWebAssets.Manifest.cache
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\PDNCOAH_API.StaticWebAssets.xml
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\PDNCOAH_API.styles.css
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.RazorTargetAssemblyInfo.cache
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.CopyComplete
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.genruntimeconfig.cache
+C:\Users\adminikon\Downloads\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.exe
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.deps.json
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.runtimeconfig.json
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.runtimeconfig.dev.json
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.pdb
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.xml
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\DevExpress.Data.v21.1.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\NodaTime.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.AssemblyReference.cache
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfoInputs.cache
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfo.cs
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.CoreCompileInputs.cache
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\PDNCOAH_API.StaticWebAssets.Manifest.cache
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\PDNCOAH_API.StaticWebAssets.xml
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\PDNCOAH_API.styles.css
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.RazorTargetAssemblyInfo.cache
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.CopyComplete
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.dll
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.xml
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.pdb
+C:\Users\clazalde\Documents\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.genruntimeconfig.cache
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.AssemblyReference.cache
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfoInputs.cache
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.AssemblyInfo.cs
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.CoreCompileInputs.cache
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.xml
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.pdb
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\libman.json
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.StaticWebAssets.xml
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.exe
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.deps.json
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.runtimeconfig.json
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.runtimeconfig.dev.json
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.pdb
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.xml
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\DevExpress.Data.v21.1.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\NodaTime.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Polly.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\PDNCOAH_API.StaticWebAssets.Manifest.cache
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\PDNCOAH_API.StaticWebAssets.Pack.cache
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PDNCOAH_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PDNCOAH_API.props
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PDNCOAH_API.props
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PDNCOAH_API.props
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.RazorTargetAssemblyInfo.cache
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.csproj.CopyComplete
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.genruntimeconfig.cache

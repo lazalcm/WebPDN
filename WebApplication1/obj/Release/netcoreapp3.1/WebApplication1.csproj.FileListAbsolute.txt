@@ -1,0 +1,153 @@
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\NodaTime.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Repositorio\WebApplication1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\libman.json
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Mvc.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Razor.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Helpers.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\PayPal.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\PayPalCoreSDK.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Repositorio\WebApplication1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\libman.json
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Mvc.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Razor.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Helpers.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\NodaTime.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Npgsql.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Repositorio\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Repositorio\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\libman.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Http.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Owin.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Owin.Security.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Owin.Security.OAuth.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\NodaTime.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Owin.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+C:\Users\clazalde\Downloads\WebPSN (1)\WebPSN\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache

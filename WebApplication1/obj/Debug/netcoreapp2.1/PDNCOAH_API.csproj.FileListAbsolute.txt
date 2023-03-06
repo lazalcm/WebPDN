@@ -1,0 +1,5 @@
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp2.1\PDNCOAH_API.csproj.AssemblyReference.cache
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp2.1\PDNCOAH_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp2.1\PDNCOAH_API.AssemblyInfoInputs.cache
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp2.1\PDNCOAH_API.AssemblyInfo.cs
+D:\Documents\SIK\12-05-2019\Documentos\Visual Studio 2019\WebPDN\WebPDN\WebApplication1\obj\Debug\netcoreapp2.1\PDNCOAH_API.csproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDNCOAH_API", "WebApplication1\PDNCOAH_API.csproj", "{9183D297-5635-43DC-97E6-BB9C774E0F60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9183D297-5635-43DC-97E6-BB9C774E0F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9183D297-5635-43DC-97E6-BB9C774E0F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9183D297-5635-43DC-97E6-BB9C774E0F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9183D297-5635-43DC-97E6-BB9C774E0F60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC1DD401-4563-4918-94C2-4EFBACDEFE69}
+	EndGlobalSection
+EndGlobal
