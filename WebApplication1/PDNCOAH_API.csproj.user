@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Controller_SelectedScaffolderID>MvcControllerWithActionsScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Common/MVC/Controller</Controller_SelectedScaffolderCategoryPath>
-    <NameOfLastUsedPublishProfile>FolderProfile</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\Properties\PublishProfiles\_myrepo_.azurecr.io.pubxml</NameOfLastUsedPublishProfile>
     <GoogleAppEnginePublishPromote>False</GoogleAppEnginePublishPromote>
     <GoogleAppEnginePublishOpenWebsite>False</GoogleAppEnginePublishOpenWebsite>
     <GoogleCloudPublishConfiguration>Release</GoogleCloudPublishConfiguration>

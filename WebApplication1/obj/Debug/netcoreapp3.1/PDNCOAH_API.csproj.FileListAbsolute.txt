@@ -305,7 +305,6 @@ D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\a
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\libman.json
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.StaticWebAssets.xml
-D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\app.yaml
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.exe
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.deps.json
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\PDNCOAH_API.runtimeconfig.json
@@ -322,8 +321,6 @@ D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\MySql.Data.dll
-D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
-D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\NodaTime.dll
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Polly.dll
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
@@ -361,3 +358,13 @@ D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\P
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.xml
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.pdb
 D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\obj\Debug\netcoreapp3.1\PDNCOAH_API.genruntimeconfig.cache
+D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\comerr64.dll
+D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\gssapi64.dll
+D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\k5sprt64.dll
+D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\krb5_64.dll
+D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\krbcc64.dll
+D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\app.yaml
+D:\Documents\Visual Studio 2019\WebPDN\WebApplication1\bin\Debug\netcoreapp3.1\Dockerfile

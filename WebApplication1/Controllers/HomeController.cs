@@ -308,6 +308,28 @@ namespace WebApplication1.Controllers
             if (resut == "Valido")
             {
                 DataTable Tabla = Metodos.spic(reqSpic);
+                if (reqSpic.query.TipoProcedimiento != null)
+                {
+                    for (var i = 0; i < reqSpic.query.TipoProcedimiento.Count; i++)
+                    {
+                        List<int> TipProdVals = new List<int> { 1, 2, 3, 4, 5 };
+                        if (!TipProdVals.Contains(reqSpic.query.TipoProcedimiento[i]))
+                        {
+                            resError resError = new resError();
+                            resError.code = "Err2";
+                            resError.message = "Error al formar la consulta, el Tipo Procedimiento es invalido.";
+                            //error default unexpected error
+                            string sqr = "";
+                            string RESULTAD = "";
+                            DataTable Tb = new DataTable();
+                            sqr = string.Format("INSERT INTO PDNCOAH.Peticiones VALUES(CURRENT_TIMESTAMP,'SPIC','{0}','{1}','{2}')"
+                            , token, JsonSerializer.Serialize(reqSpic), "Error Err1");
+                            Tb = Metodos.mandaQry(sqr, ref RESULTAD);
+                            return BadRequest(resError);
+                        }
+
+                    }
+                }
                 if (reqSpic.page == null)
                 {
                     reqSpic.page = 1;
@@ -406,28 +428,7 @@ namespace WebApplication1.Controllers
                                     DataTable TablaArea = Metodos.Area(Row["IdServidorEnContrataciones"].ToString());
                                     DataTable TablaResponsabilidad = Metodos.Responsabilidad(Row["IdServidorEnContrataciones"].ToString());
                                     DataTable TablaTipoProc = Metodos.TipoProc(Row["IdServidorEnContrataciones"].ToString(), reqSpic);
-                                    if (reqSpic.query.TipoProcedimiento != null)
-                                    {
-                                        for (var i = 0; i < reqSpic.query.TipoProcedimiento.Count; i++)
-                                        {
-                                            List<int> TipProdVals = new List<int> { 1, 2, 3, 4, 5 };
-                                            if (!TipProdVals.Contains(reqSpic.query.TipoProcedimiento[i]))
-                                            {
-                                                resError resError = new resError();
-                                                resError.code = "Err2";
-                                                resError.message = "Error al formar la consulta, el Tipo Procedimiento es invalido.";
-                                                //error default unexpected error
-                                                string sqr = "";
-                                                string RESULTAD = "";
-                                                DataTable Tb = new DataTable();
-                                                sqr = string.Format("INSERT INTO PDNCOAH.Peticiones VALUES(CURRENT_TIMESTAMP,'SPIC','{0}','{1}','{2}')"
-                                                , token, JsonSerializer.Serialize(reqSpic), "Error Err1");
-                                                Tb = Metodos.mandaQry(sqr, ref RESULTAD);
-                                                return BadRequest(resError);
-                                            }
-
-                                        }
-                                    }
+                                    
                                     
 
                                     Fila.id = Row["IdServidorEnContrataciones"].ToString();

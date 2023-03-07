@@ -55,6 +55,10 @@
               "target": "Package",
               "version": "[2.13.1, )"
             },
+            "Google.Apis.Core": {
+              "target": "Package",
+              "version": "[1.60.0, )"
+            },
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -65,7 +69,7 @@
             },
             "MySql.Data": {
               "target": "Package",
-              "version": "[8.0.26, )"
+              "version": "[8.0.32, )"
             },
             "NodaTime": {
               "target": "Package",

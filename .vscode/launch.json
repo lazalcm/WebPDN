@@ -5,6 +5,30 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Cloud Run: Run/Debug Locally",
+            "type": "cloudcode.cloudrun",
+            "request": "launch",
+            "build": {
+                "docker": {
+                    "path": "WebApplication1/Dockerfile"
+                }
+            },
+            "image": "WebPDN",
+            "service": {
+                "name": "webpdn",
+                "containerPort": 8080,
+                "resources": {
+                    "limits": {
+                        "memory": "256Mi"
+                    }
+                }
+            },
+            "target": {
+                "minikube": {}
+            },
+            "watch": true
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
