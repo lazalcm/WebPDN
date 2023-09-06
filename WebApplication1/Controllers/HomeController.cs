@@ -296,6 +296,7 @@ namespace WebApplication1.Controllers
 
         public Object Spic(reqSpic reqSpic)
         {
+            resError resError = new resError();
             resSpic Result = new resSpic();
             var authorization = Request.Headers[HeaderNames.Authorization];
             string token = null;
@@ -308,26 +309,27 @@ namespace WebApplication1.Controllers
             if (resut == "Valido")
             {
                 DataTable Tabla = Metodos.spic(reqSpic);
-                if (reqSpic.query.TipoProcedimiento != null)
+                if (reqSpic.query != null)
                 {
-                    for (var i = 0; i < reqSpic.query.TipoProcedimiento.Count; i++)
-                    {
-                        List<int> TipProdVals = new List<int> { 1, 2, 3, 4, 5 };
-                        if (!TipProdVals.Contains(reqSpic.query.TipoProcedimiento[i]))
+                   if (reqSpic.query.TipoProcedimiento != null)
+                {
+                        for (var i = 0; i < reqSpic.query.TipoProcedimiento.Count; i++)
                         {
-                            resError resError = new resError();
-                            resError.code = "Err2";
-                            resError.message = "Error al formar la consulta, el Tipo Procedimiento es invalido.";
-                            //error default unexpected error
-                            string sqr = "";
-                            string RESULTAD = "";
-                            DataTable Tb = new DataTable();
-                            sqr = string.Format("INSERT INTO PDNCOAH.Peticiones VALUES(CURRENT_TIMESTAMP,'SPIC','{0}','{1}','{2}')"
-                            , token, JsonSerializer.Serialize(reqSpic), "Error Err1");
-                            Tb = Metodos.mandaQry(sqr, ref RESULTAD);
-                            return BadRequest(resError);
-                        }
+                            if (!Enumerable.Range(1, 6).Contains(reqSpic.query.TipoProcedimiento[i]))
+                            {
+                                resError.code = "400";
+                                resError.message = "Error al formar la consulta, el Tipo Procedimiento es invalido.";
+                                //error default unexpected error
+                                string sqr = "";
+                                string RESULTAD = "";
+                                DataTable Tb = new DataTable();
+                                sqr = string.Format("INSERT INTO PDNCOAH.Peticiones VALUES(CURRENT_TIMESTAMP,'SPIC','{0}','{1}','{2}')"
+                                , token, JsonSerializer.Serialize(reqSpic), "Error 400 Bad Request");
+                                Tb = Metodos.mandaQry(sqr, ref RESULTAD);
+                                return BadRequest(resError);
+                            }
 
+                        }
                     }
                 }
                 if (reqSpic.page == null)
@@ -340,15 +342,14 @@ namespace WebApplication1.Controllers
                 }
                 if (Tabla == null)
                 {
-                    resError resError = new resError();
-                    resError.code = "Err1";
+                    resError.code = "400";
                     resError.message = "Error al formar la consulta, revise el formato de los campos.";
                     //error default unexpected error
                     string sqry = "";
                     string RESULTADO = "";
                     DataTable Tbl = new DataTable();
                     sqry = string.Format("INSERT INTO PDNCOAH.Peticiones VALUES(CURRENT_TIMESTAMP,'SPIC','{0}','{1}','{2}')"
-                    , token, JsonSerializer.Serialize(reqSpic), "Error Err1");
+                    , token, JsonSerializer.Serialize(reqSpic), "Error 400 Bad Request");
                     Tbl = Metodos.mandaQry(sqry, ref RESULTADO);
                     return BadRequest(resError);
                 }
@@ -456,17 +457,17 @@ namespace WebApplication1.Controllers
                                     Puesto.nombre = Row["Puesto"].ToString();
                                     Puesto.nivel = Row["IdPuesto"].ToString();
                                     Fila.Puesto = Puesto;
-                                    superiorinmediato superiorinmediato = new superiorinmediato();
-                                    superiorinmediato.nombres = Row["NombresSup"].ToString();
-                                    superiorinmediato.primerApellido = Row["PrimerApellidoSup"].ToString();
-                                    superiorinmediato.segundoApellido = Row["SegundoApellidoSup"].ToString();
-                                    superiorinmediato.rfc = Row["RFCSup"].ToString();
-                                    superiorinmediato.curp = Row["CURPSup"].ToString();
+                                    superiorinmediato superiorInmediato = new superiorinmediato();
+                                    superiorInmediato.nombres = Row["NombresSup"].ToString();
+                                    superiorInmediato.primerApellido = Row["PrimerApellidoSup"].ToString();
+                                    superiorInmediato.segundoApellido = Row["SegundoApellidoSup"].ToString();
+                                    superiorInmediato.rfc = Row["RFCSup"].ToString();
+                                    superiorInmediato.curp = Row["CURPSup"].ToString();
                                     Puesto PuestoSup = new Puesto();
                                     PuestoSup.nivel = Row["IdPuestoSup"].ToString();
                                     PuestoSup.nombre = Row["PuestoSup"].ToString();
-                                    superiorinmediato.Puesto = PuestoSup;
-                                    Fila.superiorinmediato = superiorinmediato;
+                                    superiorInmediato.Puesto = PuestoSup;
+                                    Fila.superiorInmediato = superiorInmediato;
                                     List<TipoArea> ListTipAr = new List<TipoArea>();
                                     foreach (DataRow RowArea in TablaArea.Rows)
                                     {
@@ -517,7 +518,6 @@ namespace WebApplication1.Controllers
 
                 if (resut == "Expirado")
                 {
-                    resError resError = new resError();
                     resError.code = "401";
                     resError.message = "El token ha Expirado, vuelva a obtener su token.";
                     //error default unexpected error
@@ -531,7 +531,6 @@ namespace WebApplication1.Controllers
                 }
                 else
                 {
-                    resError resError = new resError();
                     resError.code = "401";
                     resError.message = "El token no es valido.";
                     //error default unexpected error
@@ -623,14 +622,14 @@ namespace WebApplication1.Controllers
                 if (Tabla == null)
                 {
                     resError resError = new resError();
-                    resError.code = "Err1";
+                    resError.code = "400";
                     resError.message = "Error al formar la consulta, revise el formato de los campos.";
                     //error default unexpected error
                     string sqry = "";
                     string RESULTADO = "";
                     DataTable Tbl = new DataTable();
                     sqry = string.Format("INSERT INTO PDNCOAH.Peticiones VALUES(CURRENT_TIMESTAMP,'SSANC','{0}','{1}','{2}')"
-                    , token, JsonSerializer.Serialize(req), "Error Err1");
+                    , token, JsonSerializer.Serialize(req), "Error 400 Bad Request");
                     Tbl = Metodos.mandaQry(sqry, ref RESULTADO);
                     return BadRequest(resError);
                 }
@@ -769,8 +768,22 @@ namespace WebApplication1.Controllers
                                     Fila.multa = multaSan;
                                     inhabilitacionSan inhabilitacionSan = new inhabilitacionSan();
                                     inhabilitacionSan.plazo = Row["PlazoInhabilitacion"].ToString();
-                                    inhabilitacionSan.fechaInicial = Convert.ToDateTime(Row["FechaInicialInhabilitacion"].ToString()).ToString("yyyy-MM-dd");
-                                    inhabilitacionSan.fechaFinal = Convert.ToDateTime(Row["FechaFinalInhabilitacion"].ToString()).ToString("yyyy-MM-dd"); 
+                                    if (Row["FechaInicialInhabilitacion"].ToString() == "")
+                                    {
+                                        inhabilitacionSan.fechaInicial = "";
+                                    }
+                                    else
+                                    {
+                                        inhabilitacionSan.fechaInicial = Convert.ToDateTime(Row["FechaInicialInhabilitacion"].ToString()).ToString("yyyy-MM-dd");
+                                    }
+                                    if (Row["FechaFinalInhabilitacion"].ToString() == "")
+                                    {
+                                        inhabilitacionSan.fechaFinal = "";
+                                    }
+                                    else
+                                    {
+                                        inhabilitacionSan.fechaFinal = Convert.ToDateTime(Row["FechaFinalInhabilitacion"].ToString()).ToString("yyyy-MM-dd");
+                                    }
                                     Fila.inhabilitacion = inhabilitacionSan;
                                     Fila.observaciones = Row["Observaciones"].ToString();
                                     List<documentosSan> ListdocumentosSan = new List<documentosSan>();
@@ -866,14 +879,14 @@ namespace WebApplication1.Controllers
                 if (Tabla == null)
                 {
                     resError resError = new resError();
-                    resError.code = "Err1";
+                    resError.code = "400";
                     resError.message = "Error al formar la consulta, revise el formato de los campos.";
                     //error default unexpected error
                     string sqry = "";
                     string RESULTADO = "";
                     DataTable Tbl = new DataTable();
                     sqry = string.Format("INSERT INTO PDNCOAH.Peticiones VALUES(CURRENT_TIMESTAMP,'PARTSAN','{0}','{1}','{2}')"
-                    , token, JsonSerializer.Serialize(req), "Error Err1");
+                    , token, JsonSerializer.Serialize(req), "Error 400 Bad Request");
                     Tbl = Metodos.mandaQry(sqry, ref RESULTADO);
                     return BadRequest(resError);
                 }
@@ -1058,8 +1071,22 @@ namespace WebApplication1.Controllers
 
                                     inhabilitacionSan inhabilitacionSan = new inhabilitacionSan();
                                     inhabilitacionSan.plazo = Row["PlazoInhabilitacion"].ToString();
-                                    inhabilitacionSan.fechaInicial = Convert.ToDateTime(Row["FechaInicialInhabilitacion"].ToString()).ToString("yyyy-MM-dd");
-                                    inhabilitacionSan.fechaFinal = Convert.ToDateTime(Row["FechaFinalInhabilitacion"].ToString()).ToString("yyyy-MM-dd");
+                                    if (Row["FechaInicialInhabilitacion"].ToString() == "")
+                                    {
+                                        inhabilitacionSan.fechaInicial = "";
+                                    }
+                                    else
+                                    {
+                                        inhabilitacionSan.fechaInicial = Convert.ToDateTime(Row["FechaInicialInhabilitacion"].ToString()).ToString("yyyy-MM-dd");
+                                    }
+                                    if (Row["FechaFinalInhabilitacion"].ToString() == "")
+                                    {
+                                        inhabilitacionSan.fechaFinal = "";
+                                    }
+                                    else
+                                    {
+                                        inhabilitacionSan.fechaFinal = Convert.ToDateTime(Row["FechaFinalInhabilitacion"].ToString()).ToString("yyyy-MM-dd");
+                                    }
                                     Fila.inhabilitacion = inhabilitacionSan;
                                     Fila.observaciones = Row["Observaciones"].ToString();
 
@@ -1327,6 +1354,8 @@ namespace WebApplication1.Controllers
 
         }
 
+
+
         public class reqSpic
         {
             public Sort? sort { get; set; }
@@ -1373,7 +1402,7 @@ namespace WebApplication1.Controllers
             public List<TipoArea> TipoArea { get; set; }
             public List<NivelResponsabilidad> NivelResponsabilidad { get; set; }
             public List<TipoProcedimiento> TipoProcedimiento { get; set; }
-            public superiorinmediato superiorinmediato { get; set; }
+            public superiorinmediato superiorInmediato { get; set; }
 
         }
         public class resSpic

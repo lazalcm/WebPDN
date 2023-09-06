@@ -357,8 +357,8 @@ namespace WebApplication1.Models
             DataTable Result = null;
             string errCode = "";
             string Query = string.Empty;
-
-            Query = @"Select distinct ServidoresEnContrataciones.IdServidorEnContrataciones, FechaCaptura, EjercicioFiscal, ServidoresEnContrataciones.IdRamo, Ramo, Servidores.RFC, Servidores.CURP, Servidores.Nombres, Servidores.PrimerApellido, Servidores.SegundoApellido,  Servidores.IdGenero, Genero, Dependencia, SiglasDependencia, ServidoresEnContrataciones.IdDependencia, Puesto.Puesto, Servidores.IdPuesto, SuperiorInmediato.Nombres as NombresSup, SuperiorInmediato.PrimerApellido as PrimerApellidoSup, SuperiorInmediato.SegundoApellido as SegundoApellidoSup, SuperiorInmediato.CURP as CURPSup, SuperiorInmediato.RFC as RFCSup, PuestoSup.Puesto as PuestoSup, SuperiorInmediato.IdPuesto as IdPuestoSup from ServidoresEnContrataciones inner join Servidores on ServidoresEnContrataciones.IdServidor = Servidores.IdServidor inner join Ramo on Ramo.IdRamo = ServidoresEnContrataciones.IdRamo inner join Genero on Genero.idgenero = Servidores.IdGenero inner join Dependencia on Dependencia.IdDependencia = ServidoresEnContrataciones.IdDependencia inner join Puesto on Puesto.IdPuesto = Servidores.IdPuesto inner join Servidores as SuperiorInmediato on SuperiorInmediato.IdServidor= ServidoresEnContrataciones.IdSuperiorInmediato inner join Puesto PuestoSup on PuestoSup.IdPuesto = SuperiorInmediato.IdPuesto inner join ProcedimientoServidor on ProcedimientoServidor.IdServidorEnContrataciones = ServidoresEnContrataciones.IdServidorEnContrataciones where ServidoresEnContrataciones.IdServidorEnContrataciones is not null ";
+           // Query = @"Select distinct ServidoresEnContrataciones.IdServidorEnContrataciones, FechaCaptura, EjercicioFiscal, ServidoresEnContrataciones.IdRamo, Ramo, Servidores.RFC, Servidores.CURP, Servidores.Nombres, Servidores.PrimerApellido, Servidores.SegundoApellido,  Servidores.IdGenero, Genero, Dependencia, SiglasDependencia, ServidoresEnContrataciones.IdDependencia, Puesto.Puesto, Servidores.IdPuesto, SuperiorInmediato.Nombres as NombresSup, SuperiorInmediato.PrimerApellido as PrimerApellidoSup, SuperiorInmediato.SegundoApellido as SegundoApellidoSup, SuperiorInmediato.CURP as CURPSup, SuperiorInmediato.RFC as RFCSup, PuestoSup.Puesto as PuestoSup, SuperiorInmediato.IdPuesto as IdPuestoSup from ServidoresEnContrataciones inner join Servidores on ServidoresEnContrataciones.IdServidor = Servidores.IdServidor inner join Ramo on Ramo.IdRamo = ServidoresEnContrataciones.IdRamo inner join Genero on Genero.idgenero = Servidores.IdGenero inner join Dependencia on Dependencia.IdDependencia = ServidoresEnContrataciones.IdDependencia inner join Puesto on Puesto.IdPuesto = Servidores.IdPuesto inner join Servidores as SuperiorInmediato on SuperiorInmediato.IdServidor= ServidoresEnContrataciones.IdSuperiorInmediato inner join Puesto PuestoSup on PuestoSup.IdPuesto = SuperiorInmediato.IdPuesto inner join ProcedimientoServidor on ProcedimientoServidor.IdServidorEnContrataciones = ServidoresEnContrataciones.IdServidorEnContrataciones where ServidoresEnContrataciones.IdServidorEnContrataciones is not null ";
+            Query = @"Select distinct ServidoresEnContrataciones.IdServidorEnContrataciones, FechaCaptura, EjercicioFiscal, ServidoresEnContrataciones.IdRamo, Ramo, NULL AS RFC, NULL AS CURP, Servidores.Nombres, Servidores.PrimerApellido, Servidores.SegundoApellido,  Servidores.IdGenero, Genero, Dependencia, SiglasDependencia, ServidoresEnContrataciones.IdDependencia, Puesto.Puesto, Servidores.IdPuesto, SuperiorInmediato.Nombres as NombresSup, SuperiorInmediato.PrimerApellido as PrimerApellidoSup, SuperiorInmediato.SegundoApellido as SegundoApellidoSup, NULL as CURPSup, NULL as RFCSup, PuestoSup.Puesto as PuestoSup, SuperiorInmediato.IdPuesto as IdPuestoSup from ServidoresEnContrataciones inner join Servidores on ServidoresEnContrataciones.IdServidor = Servidores.IdServidor inner join Ramo on Ramo.IdRamo = ServidoresEnContrataciones.IdRamo inner join Genero on Genero.idgenero = Servidores.IdGenero inner join Dependencia on Dependencia.IdDependencia = ServidoresEnContrataciones.IdDependencia inner join Puesto on Puesto.IdPuesto = Servidores.IdPuesto inner join Servidores as SuperiorInmediato on SuperiorInmediato.IdServidor= ServidoresEnContrataciones.IdSuperiorInmediato inner join Puesto PuestoSup on PuestoSup.IdPuesto = SuperiorInmediato.IdPuesto inner join ProcedimientoServidor on ProcedimientoServidor.IdServidorEnContrataciones = ServidoresEnContrataciones.IdServidorEnContrataciones where ServidoresEnContrataciones.IdServidorEnContrataciones is not null ";
 
             if (reqSpic.query != null)
             {
@@ -650,9 +650,23 @@ namespace WebApplication1.Models
             DataTable Result = null;
             string errCode = "";
             string Query = string.Empty;
+            //Query = @"SELECT distinct SPS.IdServidorPubSancionado,SPS.FechaCaptura,SPS.Expediente,D.Dependencia,D.SiglasDependencia,D.IdDependencia,
+            //S.RFC,S.CURP,S.Nombres,S.PrimerApellido,S.SegundoApellido,G.IdGenero,G.Genero,P.Puesto,S.IdPuesto,
+            //SPS.AutoridadSancionadora,TF.IdTipoFalta,TF.TipoFalta,SPS.DescripFalta  ,
+            //SPS.CausaMotivoHechos,SPS.URLResolucion,SPS.FechaResolucion,SPS.MontoMulta,M.IdMoneda,M.Moneda,
+            //SPS.PlazoInhabilitacion,SPS.FechaInicialInhabilitacion,SPS.FechaFinalInhabilitacion,SPS.Observaciones
+            //FROM ServidoresPublicosSancionados SPS
+            //INNER JOIN Dependencia D ON SPS.IdDependencia=D.IdDependencia
+            //INNER JOIN Servidores S ON SPS.IdServidorPublicoSancionado=S.IdServidor
+            //INNER JOIN Genero G ON S.IdGenero = G.IdGenero
+            //INNER JOIN Puesto P ON P.IdPuesto = S.IdPuesto
+            //INNER JOIN TipoFalta TF ON SPS.IdTipoFalta=TF.IdTipoFalta
+            //INNER JOIN Moneda M ON M.IdMoneda=SPS.IdMonedaMulta
+            //INNER JOIN SancionServidor on SancionServidor.IdServidorPubSancionado = SancionServidor.IdServidorPubSancionado
+            //WHERE SPS.IdServidorPubSancionado IS NOT NULL";
 
-                        Query = @"SELECT distinct SPS.IdServidorPubSancionado,SPS.FechaCaptura,SPS.Expediente,D.Dependencia,D.SiglasDependencia,D.IdDependencia,
-            S.RFC,S.CURP,S.Nombres,S.PrimerApellido,S.SegundoApellido,G.IdGenero,G.Genero,P.Puesto,S.IdPuesto,
+            Query = @"SELECT distinct SPS.IdServidorPubSancionado,SPS.FechaCaptura,SPS.Expediente,D.Dependencia,D.SiglasDependencia,D.IdDependencia,
+            NULL AS RFC,NULL AS CURP,S.Nombres,S.PrimerApellido,S.SegundoApellido,G.IdGenero,G.Genero,P.Puesto,S.IdPuesto,
             SPS.AutoridadSancionadora,TF.IdTipoFalta,TF.TipoFalta,SPS.DescripFalta  ,
             SPS.CausaMotivoHechos,SPS.URLResolucion,SPS.FechaResolucion,SPS.MontoMulta,M.IdMoneda,M.Moneda,
             SPS.PlazoInhabilitacion,SPS.FechaInicialInhabilitacion,SPS.FechaFinalInhabilitacion,SPS.Observaciones
@@ -831,13 +845,31 @@ namespace WebApplication1.Models
             DataTable Result = null;
             string errCode = "";
             string Query = string.Empty;
+//            Query = @"select distinct ParticularesSancionados.IdParticularSancionado, FechaCaptura, Expediente,  Dependencia.Dependencia, Dependencia.SiglasDependencia, Dependencia.IdDependencia, 
+//Particulares.NombreRazonSocial, Particulares.ObjetoSocial, Particulares.RFC, Particulares.IdTipoPersona, Particulares.Telefono, 
+//Particulares.IdPais, Pais.Pais, IdEntidad, Nom_Ent, IdMunicipio, Nom_Mun,Particulares.CP, IdLocalidad, Nom_Loc, Particulares.TipoVialidad, Particulares.Vialidad, Particulares.NumeroExterior, Particulares.NumeroInterior,
+//Particulares.DomExt_Calle, Particulares.DomExt_NumeroExterior, Particulares.DomExt_NumeroInterior, Particulares.DomExt_CiudadLocalidad, Particulares.DomExt_EstadoProvincia, Particulares.DomExt_Pais, PaisExt.Pais PaisExt, Particulares.DomExt_CP,
+//Particulares.DirectorGeneral_Nombres, Particulares.DirectorGeneral_PrimerApellido, Particulares.DirectorGeneral_SegundoApellido, Particulares.DirectorGeneral_CURP,
+//Particulares.ApoderadoLegal_Nombres, Particulares.ApoderadoLegal_PrimerApellido, Particulares.ApoderadoLegal_SegundoApellido, Particulares.ApoderadoLegal_CURP,
+//ParticularesSancionados.ObjetoContrato, ParticularesSancionados.AutoridadSancionadora, ParticularesSancionados.TipoFalta, ParticularesSancionados.CausaMotivoHechos, ParticularesSancionados.Acto, ParticularesSancionados.Responsable_Nombres, ParticularesSancionados.Responsable_PrimerApellido, ParticularesSancionados.Responsable_SegundoApellido, ParticularesSancionados.SentidoResolucion, ParticularesSancionados.URLResolucion, ParticularesSancionados.FechaResolucion, ParticularesSancionados.MontoMulta, ParticularesSancionados.IdMonedaMulta, Moneda.Moneda, 
+//ParticularesSancionados.PlazoInhabilitacion, ParticularesSancionados.FechaInicialInhabilitacion, ParticularesSancionados.FechaFinalInhabilitacion, ParticularesSancionados.Observaciones
+//from ParticularesSancionados inner join Dependencia on Dependencia.IdDependencia = ParticularesSancionados.IdDependencia
+//inner join Particulares on Particulares.IdParticular = ParticularesSancionados.IdParticular 
+//left join Pais on Pais.IdPais = Particulares.IdPais 
+//left join Entidades on Entidades.Cve_Ent = Particulares.IdEntidad
+//left join Municipios on Municipios.Cve_Mun = Particulares.IdMunicipio AND Municipios.Cve_Ent = Particulares.IdEntidad
+//left join Localidades on Localidades.Cve_Loc = Particulares.IdLocalidad AND Localidades.Cve_Mun = Particulares.IdMunicipio AND Localidades.Cve_Ent = Particulares.IdEntidad
+//left join Pais PaisExt on PaisExt.IdPais = DomExt_Pais
+//inner join Moneda on ParticularesSancionados.IdMonedaMulta = Moneda.IdMoneda
+//inner join SancionServidor on ParticularesSancionados.IdParticularSancionado = IdServidorPubSancionado
+//where IdParticularSancionado is not null";
 
             Query = @"select distinct ParticularesSancionados.IdParticularSancionado, FechaCaptura, Expediente,  Dependencia.Dependencia, Dependencia.SiglasDependencia, Dependencia.IdDependencia, 
-Particulares.NombreRazonSocial, Particulares.ObjetoSocial, Particulares.RFC, Particulares.IdTipoPersona, Particulares.Telefono, 
+Particulares.NombreRazonSocial, Particulares.ObjetoSocial, NULL AS RFC, Particulares.IdTipoPersona, Particulares.Telefono, 
 Particulares.IdPais, Pais.Pais, IdEntidad, Nom_Ent, IdMunicipio, Nom_Mun,Particulares.CP, IdLocalidad, Nom_Loc, Particulares.TipoVialidad, Particulares.Vialidad, Particulares.NumeroExterior, Particulares.NumeroInterior,
 Particulares.DomExt_Calle, Particulares.DomExt_NumeroExterior, Particulares.DomExt_NumeroInterior, Particulares.DomExt_CiudadLocalidad, Particulares.DomExt_EstadoProvincia, Particulares.DomExt_Pais, PaisExt.Pais PaisExt, Particulares.DomExt_CP,
-Particulares.DirectorGeneral_Nombres, Particulares.DirectorGeneral_PrimerApellido, Particulares.DirectorGeneral_SegundoApellido, Particulares.DirectorGeneral_CURP,
-Particulares.ApoderadoLegal_Nombres, Particulares.ApoderadoLegal_PrimerApellido, Particulares.ApoderadoLegal_SegundoApellido, Particulares.ApoderadoLegal_CURP,
+Particulares.DirectorGeneral_Nombres, Particulares.DirectorGeneral_PrimerApellido, Particulares.DirectorGeneral_SegundoApellido, NULL AS DirectorGeneral_CURP,
+Particulares.ApoderadoLegal_Nombres, Particulares.ApoderadoLegal_PrimerApellido, Particulares.ApoderadoLegal_SegundoApellido, NULL AS ApoderadoLegal_CURP,
 ParticularesSancionados.ObjetoContrato, ParticularesSancionados.AutoridadSancionadora, ParticularesSancionados.TipoFalta, ParticularesSancionados.CausaMotivoHechos, ParticularesSancionados.Acto, ParticularesSancionados.Responsable_Nombres, ParticularesSancionados.Responsable_PrimerApellido, ParticularesSancionados.Responsable_SegundoApellido, ParticularesSancionados.SentidoResolucion, ParticularesSancionados.URLResolucion, ParticularesSancionados.FechaResolucion, ParticularesSancionados.MontoMulta, ParticularesSancionados.IdMonedaMulta, Moneda.Moneda, 
 ParticularesSancionados.PlazoInhabilitacion, ParticularesSancionados.FechaInicialInhabilitacion, ParticularesSancionados.FechaFinalInhabilitacion, ParticularesSancionados.Observaciones
 from ParticularesSancionados inner join Dependencia on Dependencia.IdDependencia = ParticularesSancionados.IdDependencia
@@ -848,8 +880,8 @@ left join Municipios on Municipios.Cve_Mun = Particulares.IdMunicipio AND Munici
 left join Localidades on Localidades.Cve_Loc = Particulares.IdLocalidad AND Localidades.Cve_Mun = Particulares.IdMunicipio AND Localidades.Cve_Ent = Particulares.IdEntidad
 left join Pais PaisExt on PaisExt.IdPais = DomExt_Pais
 inner join Moneda on ParticularesSancionados.IdMonedaMulta = Moneda.IdMoneda
-inner join SancionServidor on ParticularesSancionados.IdParticularSancionado = IdServidorPubSancionado
-where IdParticularSancionado is not null";
+inner join SancionServidor_Part on ParticularesSancionados.IdParticularSancionado = SancionServidor_Part.IdParticularSancionado
+where SancionServidor_Part.IdParticularSancionado is not null";
 
             if (reqSanc.query != null)
             {
@@ -903,7 +935,7 @@ where IdParticularSancionado is not null";
 
                         if (i == 0)
                         {
-                            Query = Query + " AND SancionServidor.IdTipoSancion IN('" + reqSanc.query.tipoSancion[i] + "'";
+                            Query = Query + " AND SancionServidor_Part.IdTipoSancion IN('" + reqSanc.query.tipoSancion[i] + "'";
                         }
                         else
                         {
@@ -986,7 +1018,7 @@ where IdParticularSancionado is not null";
             string errCode = "";
             string Query = string.Empty;
 
-            Query = @" Select TipoSancion.IdTipoSancion, TipoSancion.TipoSancion, DescripcionSancion from SancionServidor Inner Join TipoSancion_Part TipoSancion on SancionServidor.IdTipoSancion = TipoSancion.IdTipoSancion where IdServidorPubSancionado = '" + IdServidorPubSancionado + "'";
+            Query = @" Select TipoSancion.IdTipoSancion, TipoSancion.TipoSancion, DescripcionSancion from SancionServidor_Part Inner Join TipoSancion_Part TipoSancion on SancionServidor.IdTipoSancion = TipoSancion.IdTipoSancion where IdServidorPubSancionado = '" + IdServidorPubSancionado + "'";
 
             if (Query != string.Empty)
             {

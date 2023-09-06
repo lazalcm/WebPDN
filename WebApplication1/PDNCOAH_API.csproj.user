@@ -8,7 +8,7 @@
     <GoogleAppEnginePublishOpenWebsite>False</GoogleAppEnginePublishOpenWebsite>
     <GoogleCloudPublishConfiguration>Release</GoogleCloudPublishConfiguration>
     <GoogleCloudPublishChoice>Gae</GoogleCloudPublishChoice>
-    <GoogleAppEnginePublishNextVersion>5</GoogleAppEnginePublishNextVersion>
+    <GoogleAppEnginePublishNextVersion>8</GoogleAppEnginePublishNextVersion>
     <ShowAllFiles>true</ShowAllFiles>
     <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
   </PropertyGroup>
